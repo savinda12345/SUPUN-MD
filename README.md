@@ -57,6 +57,22 @@ ____________________
 
 <div align="left">
      
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖥𝖮𝖱𝖪+𝖲𝖴𝖯𝖴𝖭+𝖬𝖣)](https://git.io/typing-svg) </div>
+  
+<div align="center">
+
+
+  <a href="https://github.com/mrsupunfernando12/SUPUN-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SUPUN MD" width="150"></a>
+
+   
+   <br>
+
+</div>
+
+<br>
+
+<div align="left">
+     
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖲𝖤𝖲𝖲𝖨𝖮𝖭+𝖨𝖣)](https://git.io/typing-svg) </div>
   
 <div align="center">
