@@ -91,7 +91,7 @@ ____________________
 
 #### ✨DEPLOY TO GITHUB❤️ 
 
-<a href='<a href='https://github.com/mrsupunfernando12/GitHub-Workflow-Code' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>
+<a href='https://github.com/mrsupunfernando12/GitHub-Workflow-Code' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>
 
 ## ✨Deploy to Panel❤️ 
  
