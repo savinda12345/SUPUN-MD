@@ -99,9 +99,20 @@ ____________________
 
 https://github.com/mrsupunfernando12/GitHub-Workflow-Code
 
+
+## ✨Deploy to Panel❤️ 
+ 
+<a href='https://bot-hosting.net/?aff=1279977470480748621' target="_blank"><img alt='Panel Link'
+src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
+
+## ✨Deploy to Render❤️ 
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
 ## ✨Deploy to Heroku❤️ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrsupunfernando12/SUPUN-MD)
+   </a>
 
  <div align="center">
      
@@ -111,7 +122,7 @@ https://github.com/mrsupunfernando12/GitHub-Workflow-Code
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-`𝐒𝐔𝐏𝐔𝐍│𝐌𝐃│𝐕1 - 𝖡𝗒 ©𝖬𝗋.𝖲𝗎𝗉𝗎𝗇 𝖥𝖾𝗋𝗇𝖺𝗇𝖽𝗈`
+`𝐒𝐔𝐏𝐔𝐍│𝐌𝐃│𝐕3 - 𝖡𝗒 ©𝖬𝗋.𝖲𝗎𝗉𝗎𝗇 𝖥𝖾𝗋𝗇𝖺𝗇𝖽𝗈`
 
 `𝖥𝗈𝗋𝗐𝖺𝗋𝖽 𝖡𝗒 𝖣𝖺𝗋𝗄 𝖲𝗁𝖺𝖽𝗈𝗐 𝖬𝗈𝖽𝗓`
 
