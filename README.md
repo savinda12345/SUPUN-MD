@@ -61,11 +61,7 @@ ____________________
   
 <div align="left">
 
-
   <a href="https://github.com/mrsupunfernando12/SUPUN-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SUPUN MD" width="150"></a>
-
-   
-   <br>
 
 </div>
 
@@ -82,8 +78,6 @@ ____________________
    <br>
 
 </div>
-
-
 <div align="left">
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸+𝖬𝖤𝖳𝖧𝖮𝖣)](https://git.io/typing-svg) </div>
@@ -109,7 +103,7 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
  <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ℂ𝕐𝔹𝔼ℝ+𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
  
  <br>
 
