@@ -127,6 +127,6 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 
 
-`Released date:- 2025.01.18`
+`Released date:- 2025.01.17`
 <br>
-`latest updated date:- 2025.01.18`
+`latest updated date:- 2025.01.17`
