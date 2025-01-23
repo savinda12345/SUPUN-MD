@@ -75,7 +75,7 @@ ____________________
 <a href='https://supun-md-v3-pair.onrender.com' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> </div>
    
    <br>
-<div align="center">
+<div align="left">
 <a href='https://supun-md-v3-pair-0b2be959d553.herokuapp.com/' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> </div>
 </div>
 <div align="left">
