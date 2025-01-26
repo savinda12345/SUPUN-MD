@@ -59,13 +59,15 @@ ____________________
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖥𝖮𝖱𝖪+𝖲𝖴𝖯𝖴𝖭+𝖬𝖣)](https://git.io/typing-svg) </div>
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/mrsupunfernando12/SUPUN-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SUPUN MD" width="150"></a>
    <br>
 
 </div>
 <br>
-## 🦋 DEPLOYMRNT METHOD🦋
+<div align="left">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖲𝖴𝖯𝖴𝖭+𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸)](https://git.io/typing-svg) </div>
 
 <a href="https://supun-md-web.vercel.app/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
 <br>
