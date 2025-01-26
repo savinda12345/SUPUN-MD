@@ -59,48 +59,16 @@ ____________________
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖥𝖮𝖱𝖪+𝖲𝖴𝖯𝖴𝖭+𝖬𝖣)](https://git.io/typing-svg) </div>
   
-<div align="left">
-
+<div align="center">
   <a href="https://github.com/mrsupunfernando12/SUPUN-MD/fork"><img src="https://img.shields.io/badge/Fork%20Create-black?style=for-the-badge&logo=github" alt="FORK SUPUN MD" width="150"></a>
-
-</div>
-
-<br>
-
-<div align="left">
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖲𝖤𝖲𝖲𝖨𝖮𝖭+𝖨𝖣)](https://git.io/typing-svg) </div>
-  
-<div align="left">
-<a href='https://supun-md-v3-pair.onrender.com' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> </div>
-   
    <br>
-<div align="left">
-<a href='https://supun-md-v3-pair-0b2be959d553.herokuapp.com/' target="_blank"><img alt='SESSION FILE' src='https://img.shields.io/badge/SESSION FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> </div>
+
 </div>
-<div align="left">
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝖬𝖣+𝖣𝖤𝖯𝖫𝖮𝖸+𝖬𝖤𝖳𝖧𝖮𝖣)](https://git.io/typing-svg) </div>
+<br>
+## 🦋 DEPLOYMRNT METHOD🦋
 
-
-#### ✨DEPLOY TO GITHUB❤️ 
-
-<a href='https://github.com/mrsupunfernando12/GitHub-Workflow-Code' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>
-
-## ✨Deploy to Panel❤️ 
- 
-<a href='https://bot-hosting.net/?aff=1279977470480748621' target="_blank"><img alt='Panel Link'
-src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
-
-## ✨Deploy to Render❤️ 
-
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
-
-## ✨Deploy to Heroku❤️ 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrsupunfernando12/SUPUN-MD)
-   </a>
-
+<a href="https://supun-md-web.vercel.app/"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<br>
  <div align="center">
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝕊𝕌ℙ𝕌ℕ+𝕄𝔻+𝔹𝕆𝕋)](https://git.io/typing-svg) </div>
@@ -121,6 +89,6 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 
 
 
-`Released date:- 2025.01.17`
+`Released date:- 2025.01.18`
 <br>
-`latest updated date:- 2025.01.17`
+`latest updated date:- 2025.01.27`
