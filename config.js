@@ -14,3 +14,4 @@ MONGODB: process.env.MONGODB || "mongodb url", //add your mongodb url
  URL : process.env.BOT_MENU_LINKS || 'https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg',
 MAX_SIZE: 500
 };
+
