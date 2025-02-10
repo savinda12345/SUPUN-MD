@@ -1,7 +1,7 @@
 {
     "name": "SUPUN-MD",
     "version": "3.2.0",
-    "description": "Supun Md multi-device WhatsApp bot",
+    "description": "Supun Md multi-device WhatsApp bot in sri lankan",
     "main": "index.js",
     "scripts": {
         "start": "pm2 start index.js --deep-monitoring --attach --name supun-md",
