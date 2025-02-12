@@ -93,4 +93,4 @@ ____________________
 
 `Released date:- 2025.01.18`
 <br>
-`latest updated date:- 2025.02.11`
+`latest updated date:- 2025.02.12`
