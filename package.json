@@ -1,7 +1,7 @@
 {
     "name": "SUPUN-MD",
-    "version": "3.2.0",
-    "description": "Supun Md multi-device WhatsApp bot in sri lankan",
+    "version": "3.3.2",
+    "description": "Supun Md multi-device WhatsApp bot",
     "main": "index.js",
     "scripts": {
         "start": "pm2 start index.js --deep-monitoring --attach --name supun-md",
@@ -11,15 +11,13 @@
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
-        "@sl-code-lords/esana-news": "latest",     
-        "@blackamda/telegram-image-url": "^1.0.0",
+        "@sl-code-lords/esana-news": "latest",                 "@blackamda/telegram-image-url": "^1.0.0",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",        
         "@mrnima/tiktok-downloader":"1.0.0",
         "@mrnima/facebook-downloader":"1.0.0",       
         "@dark-yasiya/yt-dl.js":"1.0.5",  
         "@sl-code-lords/movie-api":"1.0.0",  
-        "pixaldrain-sinhalasub": "git+https://github.com/DarkMakerofc/pixaldrain-sinhalasub.git",       
         "@sl-code-lords/web_screenshot":"latest",   
         "axios": "^1.6.8",
         "api-dylux": "latest",
@@ -56,6 +54,6 @@
         "vm": "^0.1.0",
         "ruhend-scraper":"8.0.3",
         "mrnima-moviedl":"1.0.0",
-        "megajs" : "1.3.5"          
+        "megajs" : "1.3.5"
     }
-}
+    }
